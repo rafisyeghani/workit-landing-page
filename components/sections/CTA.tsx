@@ -14,7 +14,7 @@ export default function CTA() {
                         Be the first to test
                     </h2>
                     <p className="bg-dark-purple font-body text-white/80 text-[18px] leading-[32px] mt-6">
-                        Hi, I'm Louis Graham, the founder of the company. Book a demo call with me to become a beta tester for our app and kickstart your company. Apply for access below and I’ll be in touch to schedule a call.
+                        Hi, I&apos;m Louis Graham, the founder of the company. Book a demo call with me to become a beta tester for our app and kickstart your company. Apply for access below and I&apos;ll be in touch to schedule a call.
                     </p>
                     <Button variant="primary">Apply for access</Button>
                     <Image src="/spiral.svg" alt="" className="absolute bottom-0 right-0 hidden md:block" aria-hidden="true" width={100} height={100}/>
