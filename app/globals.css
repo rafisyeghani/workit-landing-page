@@ -8,7 +8,6 @@
   --color-white: #FFFFFF;
   --font-heading: var(--font-fraunces); 
   --font-body: var(--font-manrope);
-  
 }
 
 body {
@@ -20,4 +19,9 @@ body {
 .hero-curve{
   border-bottom-left-radius: 50% 160px;
   border-bottom-right-radius: 50% 160px;
+}
+
+.features-curve{
+  border-bottom-left-radius: 50% 60px;
+  border-bottom-right-radius: 50% 60px;
 }
