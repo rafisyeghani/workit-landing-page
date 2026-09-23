@@ -16,3 +16,8 @@ body {
   color: #24053E;
   font-family: var(--font-manrope);
 }
+
+.hero-curve{
+  border-bottom-left-radius: 50% 160px;
+  border-bottom-right-radius: 50% 160px;
+}

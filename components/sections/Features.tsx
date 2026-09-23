@@ -2,7 +2,7 @@ import Container from "@/components/ui/Container";
 
 export default function Features() {
     return(
-        <section className="bg-ghost-white py-20 lg:py-24 pt-32 md:pt-40 rounded-b[80%] relative overflow-hidden">
+        <section className="bg-ghost-white pt-38 md:pt-58 pb-20 lg:pb-28 relative overflow-hidden">
             <Container className="grid gap-12 md:grid-cols-1 lg:grid-cols-3 text-center">
                 <article className="flex flex-col items-center gap-6">
                     <span className="inline-flex h-12 w-12 items-center justify-center rounded-full border border-davy-grey font-heading text-dark-purple">
