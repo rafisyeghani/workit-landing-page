@@ -1,6 +1,6 @@
 # Workit Landing Page
 
-Landing page **Workit** hasil slicing dari desain Figma untuk technical test Frontend Internship di PT Daya Rekadigital Indonesia. Halaman terdiri dari lima section: Header, Hero, Features, CTA (testimonial founder), dan Footer. Fokus implementasi pada akurasi visual, responsif, semantic HTML, dan aksesibilitas dasar.
+Landing page **Workit** hasil slicing dari desain Figma untuk technical test Frontend Internship di PT Daya Rekadigital Indonesia. Halaman terdiri dari lima section: Header, Hero, Features, CTA, dan Footer. Fokus implementasi pada akurasi visual, responsif, semantic HTML, dan aksesibilitas dasar.
 
 ## Tech Stack
 
@@ -66,7 +66,7 @@ Berikut beberapa kendala nyata yang ditemui selama development dan cara penyeles
 
 ```
 app/
-  globals.css      # Token design system + curve utilities
+  globals.css      # Token design system + curve 
   layout.tsx       # Root layout, font Fraunces + Manrope
   page.tsx         # Susunan section
 components/
