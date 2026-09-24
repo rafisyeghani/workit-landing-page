@@ -8,8 +8,10 @@ export default function Home() {
   return (
     <main className="bg-white overflow-x-clip">
       <Header />
+      <div className="bg-ghost-white features-curve overflow-hidden">
       <Hero />
       <Features />
+      </div>
       <CTA />
       <Footer />
     </main>

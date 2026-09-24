@@ -10,7 +10,7 @@ export default function Hero() {
                 <Button variant="primary" href="#" className="mt-8" >
                     Learn more
                 </Button>
-                <Image src="/phone.png" alt="Workit app" width={767} height={441} className="relative z-10 mx-auto mt-10 -mb-28 md:-mb-40 max-w-[320px] md:max-w-[500px] lg:max-w-[650px]" priority/>
+                <Image src="/phone.png" alt="Workit app" width={767} height={441} className="relative z-10 mx-auto mt-10 -mb-28 md:-mb-38 max-w-[320px] md:max-w-[500px] lg:max-w-[650px]" priority/>
                 <Image src="/spiral.svg" alt="" className="top-16 absolute hidden md:block -left-20 pointer-events-none" aria-hidden="true" width={270} height={215}/>
                 <Image src="/spiral.svg" alt="" className="top-48 absolute hidden md:block -right-6 pointer-events-none" aria-hidden="true"  width={141} height={112}/>
             </Container> 
