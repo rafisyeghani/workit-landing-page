@@ -2,35 +2,35 @@ import Container from "@/components/ui/Container";
 
 export default function Features() {
     return(
-        <section className="bg-ghost-white pt-38 md:pt-58 pb-20 lg:pb-28 features-curve relative overflow-hidden">
-            <Container className="grid gap-12 md:grid-cols-1 lg:grid-cols-3 text-center">
-                <article className="flex flex-col items-center gap-6">
+        <section className="bg-ghost-white pt-44 md:pt-58 pb-20 lg:pb-28 relative overflow-hidden">
+            <Container className="grid gap-y-14 lg:gap-x-[80px] md:grid-cols-1 lg:grid-cols-3 text-center">
+                <article className="flex flex-col items-center gap-6 max-w-[350px] w-full justify-self-center">
                     <span className="inline-flex h-12 w-12 items-center justify-center rounded-full border border-davy-grey font-heading text-dark-purple">
                         1
                     </span>
-                    <h3 className="font-heading text-[32px] leading-[40px] text-dark-purple">
+                    <h3 className="font-heading text-[32px] leading-[40px] lg:min-h-[80px] text-dark-purple">
                         Actionable insights
                     </h3>
                     <p className="font-body text-[18px] leading-[32px] text-dark-purple">
                         Optimize your products, improve customer satisfaction and stay ahead of the competition with our product data analytics.
                     </p>
                 </article>
-                <article className="flex flex-col items-center gap-6">
+                <article className="flex flex-col items-center gap-6 max-w-[350px] w-full justify-self-center">
                     <span className="inline-flex h-12 w-12 items-center justify-center rounded-full border border-davy-grey font-heading text-dark-purple">
                         2
                     </span>
-                    <h3 className="font-heading text-[32px] leading-[40px] text-dark-purple">
+                    <h3 className="font-heading text-[32px] leading-[40px] lg:min-h-[80px] text-dark-purple">
                         Data-driven decisions
                     </h3>
                     <p className="font-body text-[18px] leading-[32px] text-dark-purple">
                         Make data-driven decisions with our product data analytics. Our AI-generated reports help you unlock insights hidden in your product data.
                     </p>
                 </article>
-                <article className="flex flex-col items-center gap-6">
+                <article className="flex flex-col items-center gap-6 max-w-[350px] w-full justify-self-center">
                     <span className="inline-flex h-12 w-12 items-center justify-center rounded-full border border-davy-grey font-heading text-dark-purple">
                         3
                     </span>
-                    <h3 className="font-heading text-[32px] leading-[40px] text-dark-purple">
+                    <h3 className="font-heading text-[32px] leading-[40px] lg:min-h-[80px] text-dark-purple">
                         Always affordable
                     </h3>
                     <p className="font-body text-[18px] leading-[32px] text-dark-purple">
